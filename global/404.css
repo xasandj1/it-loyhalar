@@ -2646,9 +2646,9 @@ body.inquiry-page .scrollBar {
 }
 
 .header__new-middle ul.new-primary li.menu-item a {
-    color: #b5b2be;
+    color: white;
     font-family: HelveticaNowDisplay,sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 700;
     line-height: 22px;
@@ -2657,7 +2657,7 @@ body.inquiry-page .scrollBar {
 
 @media (min-width: 1025px) {
     .header__new-middle ul.new-primary li.menu-item a {
-        font-size:14px
+        font-size:16px
     }
 }
 
@@ -2668,7 +2668,7 @@ body.inquiry-page .scrollBar {
 }
 
 .header__new-middle ul.new-primary li.menu-item svg path {
-    fill: #b5b2be
+    fill: white
 }
 
 .header__new-middle ul.new-primary li.menu-item i.fa.fa-angle-down,.header__new-middle ul.new-primary li.menu-item svg {
@@ -2688,19 +2688,19 @@ body.inquiry-page .scrollBar {
 }
 
 .header__new-middle ul.new-primary li.menu-item:hover a {
-    color: #00e2c5
+    color: white
 }
 
 .header__new-middle ul.new-primary li.menu-item:hover svg path {
-    fill: #00e2c5
+    fill: white
 }
 
 .header__new-middle ul.new-primary li.menu-item.active a {
-    color: #00e2c5
+    color: white
 }
 
 .header__new-middle ul.new-primary li.menu-item.active svg path {
-    fill: #00e2c5
+    fill: white
 }
 
 .header__new-middle ul.new-primary li.menu-item.active:after {
@@ -4065,7 +4065,7 @@ html.has-scroll-smooth {
 }
 
 .btn-cta {
-    background: #005bff;
+    background: white;
     border-radius: 100vw;
     border-radius: 0 3rem 0 0;
     display: none;
@@ -4113,7 +4113,7 @@ html.has-scroll-smooth {
 }
 
 .btn_loop-text {
-    color: #fff;
+    color: black;
     display: inline-flex;
     justify-content: center;
     padding: 0 .5rem;
